@@ -1,0 +1,13 @@
+com\gwent\bff\dto\requets\UserRequestDTO.class
+com\gwent\bff\dto\response\UserResponseDTO.class
+com\gwent\bff\GwentBackendApplication.class
+com\gwent\bff\repository\UserRepository.class
+com\gwent\bff\configuration\swagger\SwaggerConfig.class
+com\gwent\bff\controller\UserController.class
+com\gwent\bff\configuration\util\StartupMessageListener.class
+com\gwent\bff\configuration\validation\ValidationConfig.class
+com\gwent\bff\dto\response\GenericResponseDTO.class
+com\gwent\bff\service\UserService.class
+com\gwent\bff\mapper\UserMapper.class
+com\gwent\bff\model\User.class
+com\gwent\bff\exception\GlobalExceptionHandler.class

@@ -1,0 +1,13 @@
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\repository\UserRepository.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\dto\response\UserResponseDTO.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\service\UserService.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\GwentBackendApplication.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\configuration\validation\ValidationConfig.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\exception\GlobalExceptionHandler.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\dto\response\GenericResponseDTO.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\model\User.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\dto\requets\UserRequestDTO.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\configuration\util\StartupMessageListener.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\controller\UserController.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\mapper\UserMapper.java
+C:\Users\arima\IdeaProjects\gwent-backend\src\main\java\com\gwent\bff\configuration\swagger\SwaggerConfig.java
