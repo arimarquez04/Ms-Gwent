@@ -1,4 +1,4 @@
-package com.gwent.bff.config;
+package com.gwent.bff.configuration.util;
 
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.ApplicationListener;

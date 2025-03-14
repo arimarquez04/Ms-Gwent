@@ -1,25 +1,24 @@
 package com.gwent.bff.dto.response;
 
-import org.springframework.http.HttpStatus;
 
 public class GenericResponseDTO<T> {
 
-    private String serviceProcedencia;
+    private String serviceOrigin;
     private Integer status;
     private T data;
 
     public GenericResponseDTO(String serviceProcedencia, Integer status, T data) {
-        this.serviceProcedencia = serviceProcedencia;
+        this.serviceOrigin = serviceProcedencia;
         this.status = status;
         this.data = data;
     }
 
-    public String getServiceProcedencia() {
-        return serviceProcedencia;
+    public String getServiceOrigin() {
+        return serviceOrigin;
     }
 
-    public void setServiceProcedencia(String serviceProcedencia) {
-        this.serviceProcedencia = serviceProcedencia;
+    public void setServiceOrigin(String serviceOrigin) {
+        this.serviceOrigin = serviceOrigin;
     }
 
     public Integer getStatus() {

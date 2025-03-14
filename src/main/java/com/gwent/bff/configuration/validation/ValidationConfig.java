@@ -1,4 +1,4 @@
-package com.gwent.bff.config;
+package com.gwent.bff.configuration.validation;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
